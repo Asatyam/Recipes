@@ -9,4 +9,3 @@ mind that this is a pure html project so it will not contain any CSS or JS.
 - img
 - strong, em
 - a 
-    

@@ -1,0 +1,14 @@
+*{
+    background-color: antiquewhite;
+}
+.image{
+    height:300px;
+    width:auto;
+}
+.description,.ingredients,.steps{
+    font-family:Arial, Helvetica, sans-serif
+}
+p,ul,ol{
+    color: purple;
+    font-family:Helvetica,sans-serif;
+}
